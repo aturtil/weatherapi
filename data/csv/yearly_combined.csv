@@ -1,0 +1,6 @@
+year,temperature_2m,relative_humidity_2m,precipitation,surface_pressure,month,country,subdivision,type,million_60kgs_bag,nonbear_mill_trees,bear_mill_trees,nonbear_thous_hect,bear_thous_hect,trees_hect_bear,trees_hect_nonbear,avg_unemp_perc
+2022,19.1,76.0,0.0,912.8,7.0,Brazil,Minas Gerais,Arabica,24.5,1500.0,6010.0,470.0,2010.0,2990.0,3191.0,7.15
+2022,19.1,76.0,0.0,912.8,7.0,Brazil,Espirito Santo,Arabica,3.7,1500.0,6010.0,470.0,2010.0,2990.0,3191.0,7.925
+2022,19.1,76.0,0.0,912.8,7.0,Brazil,Espirito Santo,Robusta,15.7,1500.0,6010.0,470.0,2010.0,2990.0,3191.0,7.925
+2022,19.1,76.0,0.0,912.8,7.0,Brazil,Sao Paulo,Arabica,4.6,1500.0,6010.0,470.0,2010.0,2990.0,3191.0,9.075
+2022,19.1,76.0,0.0,912.8,7.0,Brazil,Parana,Arabica,1.0,1500.0,6010.0,470.0,2010.0,2990.0,3191.0,5.825
